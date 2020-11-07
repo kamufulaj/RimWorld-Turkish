@@ -512,16 +512,16 @@ Though HE pursued HIS artistic hobbies, HIS subordinates preferred to entertain 
 		<desc>NAME was an explosive engineer employed in mines. HECAP took HIS job very seriously and was well-versed in the technicalities - so much so that HE refused to demean HIMself by helping with the clean-up once HIS carefully-calculated explosion was complete.</desc>
 	</ExplosivesExpert30>
 	<Counselor20>
-		<title>Counselor</title>
-		<titleShort>Counselor</titleShort>
-		<desc>A terrifying trauma when NAME was a young adult caused HIM to develop a serious eating disorder. With counseling HE learned to have a healthier relationship with food, and decided to put HIS new skills to use helping others overcome their emotional problems.</desc>
+		<title>denizci</title>
+		<titleShort>denizci</titleShort>
+		<desc>NAME genç bir yetişkinken korkunç bir travma, HIM'in ciddi bir yeme bozukluğu geliştirmesine neden oldu. Danışmanlık ile HE yiyeceklerle daha sağlıklı bir ilişki kurmayı öğrendi ve başkalarının duygusal problemlerinin üstesinden gelmesine yardımcı olmak için HIS'e yeni beceriler koymaya karar verdi.</desc>
 	</Counselor20>
 	<Recruiter51>
-		<title>Recruiter</title>
+		<title>İşveren</title>
 		<titleShort>Recruiter</titleShort>
-		<desc>NAME was part of an revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.
+		<desc>NAME, hem savaş becerileriyle hem de yaralılarını tedavi etmeyi reddetme pratikleriyle kötü şöhretli dövüş sanatçılarının saygın bir topluluğunun bir parçasıydı.
 
-HECAP travelled HIS homeworld, judging the young people HE met to determine if they might be suitable for training.</desc>
+HECAP, eğitim için uygun olup olmadıklarını belirlemek için tanıştığı gençleri yargılayarak HIS ana dünyasını gezdi.</desc>
 	</Recruiter51>
 	<PsychiatricPatient28>
 		<title>Psychiatric patient</title>
